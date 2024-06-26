@@ -1,0 +1,1 @@
+# Verificador-md5-bash-script
